@@ -1,3 +1,6 @@
 [submodule "boids"]
 	path = boids
 	url = https://github.com/Ectalite/CS-214_Callback.git
+[submodule "anagrams"]
+	path = anagrams
+	url = https://github.com/Ectalite/CS-214_Anagrams.git
